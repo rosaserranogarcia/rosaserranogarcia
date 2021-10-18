@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working as [Técnico de soporte de redes en Zelenza](https://www.zelenza.com/)
 
-- 🌱  I’m currently learning **Javascript, Php, NodeJS**
+- 🌱  I’m currently learning **Javascript, Typescropt, Php, NodeJS**
 
 - 👨‍💻  All of my projects are available at [https://rosaserra.es/](https://rosaserra.es/)
 
