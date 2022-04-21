@@ -5,16 +5,16 @@
 
 - 🌱  I’m currently learning **Javascript, Typescropt, Php, NodeJS**
 
-- 👨‍💻  All of my projects are available at [https://rosaserra.es/](https://rosaserra.es/)
+- 👨‍💻  All of my projects are available at [https://rosaserrano.es/](https://rosaserrano.es/)
 
 - 💬  Ask me about **html, css, wordpress, prestashop**
 
-- 📫  How to reach me **info@rosaserra.es**
+- 📫  How to reach me **info@rosaserrano.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rosaserradesign/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rosaserradesign/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rosaserra.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rosaserra.es/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rosaserrano.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rosaserrano.es/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rosaserra_branding_web_design/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rosaserra_branding_web_design/" height="30" width="40" /></a>
 </p>
 
